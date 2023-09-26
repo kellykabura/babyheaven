@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984654068343",
+    "project_id": "babyheaven-e02cf",
+    "storage_bucket": "babyheaven-e02cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984654068343:android:a5532b59024cbcf75aa472",
+        "android_client_info": {
+          "package_name": "com.example.babyheaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFihfwTpyMtse_S_hSOzC9bf_jusvS_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
